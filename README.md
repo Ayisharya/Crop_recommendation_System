@@ -46,22 +46,6 @@ Our system uses the following sensors to collect real-time environmental data:
 * **ESP 32** (Sensor integration)
 
 
-###  How to Run
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/yourusername/crop-recommendation-system.git
-   cd crop-recommendation-system
-   ```
-
-2. Run the model with real-time sensor input:
-
-   ```bash
-   python main.py
-   ```
-
-   
 ### DEMO LINK OF THE HARDWARE SETUP
 https://drive.google.com/file/d/1Tb858_oSnoKAfAuqosbrBHOjyfLnQJd1/view?usp=drivesdk
 
