@@ -65,6 +65,10 @@ Our system uses the following sensors to collect real-time environmental data:
    python main.py
    ```
 
+   
+### DEMO LINK OF THE HARDWARE SETUP
+https://drive.google.com/file/d/1Tb858_oSnoKAfAuqosbrBHOjyfLnQJd1/view?usp=drivesdk
+
 ### 📈 Future Work
 
 * Deploy as a web/mobile application
